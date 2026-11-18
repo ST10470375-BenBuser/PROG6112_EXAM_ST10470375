@@ -1,0 +1,8 @@
+ESTATE AGENT REPORT
+***********************************
+PRODUCT :: Cozy Nights Monarch
+CUSTOMER NAME: Ben
+MATRESS PRICE: R 100.0
+CALCULATED VAT: R 12.0
+COMMISSION: R 5.0
+***********************************
