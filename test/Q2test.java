@@ -10,17 +10,17 @@ import org.junit.jupiter.api.BeforeAll;
 import static org.junit.jupiter.api.Assertions.*;
 import Q2.Data;
 import Q2.AppGUI;
-import Q2.App;
+import Q2.ProductCalculations;
 import static org.junit.jupiter.api.Assertions.*;
 /**
  *
  * @author benja
  */
-public class Test {
+public class Q2test {
     
     
 
-    private final App a = new App();
+    private final ProductCalculations a = new ProductCalculations();
 
     
     void CalculateVAT_CalculatedSuccessfully() {

@@ -10,10 +10,10 @@ package Q2;
  */
 
   
-public class App implements IApp{
+public class ProductCalculations implements IApp{
 
     
-  
+ 
     public double CalculateVAT(String productPrice) {
         double price = Double.parseDouble(productPrice.trim());
       

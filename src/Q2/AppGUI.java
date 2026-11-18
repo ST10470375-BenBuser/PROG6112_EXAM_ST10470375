@@ -25,7 +25,7 @@ public class AppGUI extends JFrame {
    
     private final JTextArea reportArea = new JTextArea(6, 20);
 
-    private final App matressApp = new App(); // logic class
+    private final ProductCalculations matressApp = new ProductCalculations(); // logic class
 
     public AppGUI() {
         super("Estate Agent Report");                   
